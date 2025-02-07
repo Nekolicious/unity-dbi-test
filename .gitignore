@@ -1,0 +1,43 @@
+# Unity specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.unityproj
+*.booproj
+*.svd
+
+# Cache files
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity generated files
+*.unitypackage
+*.prefab.meta
+*.asset.meta
+
+# Scriptable Object Meta
+*.so
+*.so.meta
+
+# VS Code specific
+.vscode/
+
+# Other
+.DS_Store
+*.swp
